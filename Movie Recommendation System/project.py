@@ -1,6 +1,6 @@
 #* Submitted By:
 #* Bilal Ahmad Butt (L15-4208)
-#* Asad ur Rehman (L15-4132)
+
 #* Movie Recommendation System
 from keras.models import load_model
 #from numpy import array
